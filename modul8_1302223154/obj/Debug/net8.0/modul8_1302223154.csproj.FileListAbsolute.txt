@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\bin\Debug\net8.0\modul8_1302223154.exe
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\bin\Debug\net8.0\modul8_1302223154.deps.json
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\bin\Debug\net8.0\modul8_1302223154.runtimeconfig.json
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\bin\Debug\net8.0\modul8_1302223154.dll
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\bin\Debug\net8.0\modul8_1302223154.pdb
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\obj\Debug\net8.0\modul8_1302223154.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\obj\Debug\net8.0\modul8_1302223154.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\obj\Debug\net8.0\modul8_1302223154.AssemblyInfo.cs
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\obj\Debug\net8.0\modul8_1302223154.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\obj\Debug\net8.0\modul8_1302223154.sourcelink.json
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\obj\Debug\net8.0\modul8_1302223154.dll
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\obj\Debug\net8.0\refint\modul8_1302223154.dll
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\obj\Debug\net8.0\modul8_1302223154.pdb
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\obj\Debug\net8.0\modul8_1302223154.genruntimeconfig.cache
+C:\Users\ASUS\Documents\KPL\1302223154_MOD8_JURNAL_NCA\modul8_1302223154\modul8_1302223154\obj\Debug\net8.0\ref\modul8_1302223154.dll
